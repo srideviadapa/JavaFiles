@@ -1,0 +1,1 @@
+First Number 12Second Number 14Addition of both the numbers = 26

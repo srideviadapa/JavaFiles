@@ -1,0 +1,46 @@
+Day Objectives:
+--------------
+			- Course Registration
+			
+					- engineering.apssdc.in/register
+					
+			- Slw Requirements for Django
+					- python s/w
+							python 3.6.8
+							- python.org
+									- windows x86-64 executable installer
+					- editor
+							- sublime text
+									- sublimetext.com/3
+					- package
+							pip install django
+			
+Django Introduction:
+--------------------
+		- project creation in django
+				- proper location 
+							- desktop(Django-AI-Aditya)
+							
+				- open the cmd in that folder location
+				- for the project cration django provides one command
+						i.e django-admin startproject projectname
+						ex: django-admin startproject FirstProject
+								- init.py:this is an empty python file
+								- asgi.py:asynchronous server gateway interface
+								- wsgi.py:web server gateway interface
+								- settings.py:we can see all project settings
+								- urls.py:we can create userdefined urls
+							-manage.py:it is django serverfile,without this file we
+							can't run server in django
+							
+							
+		- App creation in django:
+		===================
+				- manage.py
+				- for the app creation django provides command
+					i.e., python manage.py startapp appname
+					Eg - pyhtom manage.py startapp FirstApp
+		
+		
+		- django server
+		
